@@ -1,5 +1,4 @@
-# Notes for my upcoming workshops
-
+# Copy Paste Helper For My Next Workshop
 ## re:Invent 2023 CON 201 notes 
 **Event Access Code**
 
