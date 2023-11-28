@@ -1,5 +1,5 @@
-# Copy Paste Helper For My Next Workshop
-## re:Invent 2023 CON 201 notes 
+# Copy-paste helper for re:Invent 2023 CON 201  
+
 **Event Access Code**
 
 8925-0cae15-3d
